@@ -14,22 +14,22 @@ O **Meal App** é um aplicativo desenvolvido em **Flutter** que permite aos usu�
 ### 1. Tela Inicial
 A tela inicial permite que o usuário navegue entre a **listagem de receitas** e os **favoritos**.
 
-![Tela Inicial](path/to/your/image/inicial.png)
+![Tela Inicial](/imagens/inicio.png)
 
 ### 2. Tela de Receitas
 Exibe a lista de receitas obtidas da API, com nome e imagem de cada prato. Ao clicar em uma receita, o usuário é redirecionado para a tela de detalhes.
 
-![Tela de Receitas](path/to/your/image/receitas.png)
+![Tela de Receitas](/imagens/listar.png)
 
 ### 3. Tela de Detalhes
 Exibe o nome do prato, imagem, ingredientes (com quantidades) e instruções de preparo. Também permite favoritar a receita.
 
-![Tela de Detalhes](path/to/your/image/detalhes.png)
+![Tela de Detalhes](/imagens/detalhes.png)
 
 ### 4. Tela de Favoritos
 Lista as receitas que foram favoritas pelo usuário, permitindo o acesso rápido a elas. Ao clicar em uma receita favorita, o usuário é levado para a tela de detalhes.
 
-![Tela de Favoritos](path/to/your/image/favoritos.png)
+![Tela de Favoritos](/imagens/favoritos.png)
 
 ## Como Rodar o Aplicativo
 
